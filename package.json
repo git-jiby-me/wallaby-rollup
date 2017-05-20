@@ -1,0 +1,23 @@
+{
+  "name": "wallaby-rollup",
+  "version": "0.0.1",
+  "description": "Rollup postprocessor for wallaby.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/git-jiby-me/wallaby-rollup.git"
+  },
+  "keywords": [
+    "Rollup",
+    "Wallaby"
+  ],
+  "author": "Jiby Jose <mail.jiby.me@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/git-jiby-me/wallaby-rollup/issues"
+  },
+  "homepage": "https://github.com/git-jiby-me/wallaby-rollup#readme"
+}
